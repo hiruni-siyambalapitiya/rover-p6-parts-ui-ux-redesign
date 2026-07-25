@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="images/rover-p6-uiux-banner.png" alt="Rover P6 Parts UX/UI Redesign Banner" width="100%">
+</p>
+
+-----
+
 # rover-p6-parts-ui-ux-redesign
 Human-Computer Interaction project showcasing UX research, usability testing, user personas, contextual inquiry, and UI improvement recommendations.
 
